@@ -23,3 +23,4 @@
 - The main limitation of this data set is the amount of data in some categories leads to biased information.
 
 - Another possible graph to use for outcomes based on goals would be a horizontal bar chart. This more accurately portrays the lack of data in the upper end and allows the viewer to better come to a conclusion on the best goal to set for their campaign.
+![Outcomes Based on Goals Alt](https://user-images.githubusercontent.com/102704559/162800719-94b96057-dd19-4006-b6ee-a05922a7a6cd.png)
