@@ -7,8 +7,10 @@
 ## Analysis and Challenges
 
 ### Through the analysis of Theater as a whole and filtered by month, I was able to discover with the help of a line chart that over the scale of 8 years the data averages the most ideal time to launch a kickstarter campaign in this category to be June or July with over 100 successful campaigns over 8 years compared to the winter months such as January and December being about half that.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102704559/162800331-898c46e6-e52e-4518-b11a-14facf5f84d0.png)
 
 ### Digging deeper into the Theater category and looking only at plays and their monetary goals, the data shows that campaigns with a goal of less than $1000 tend to fail, with only a 32% success rate. However, the threshold of $1000 to $15000 see a significant increase in success averaging over 90%.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102704559/162800393-663e27dc-a992-464e-b72a-e61d4219f36f.png)
 
 ### A challenge that was encountered with the goal based data was the lack of data for higher monetary goals over $20000. These goals all tended to be successful, however with a sample of under 10. The success rate is massively skewed due to lack of information in these ranges.
 
